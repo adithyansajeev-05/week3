@@ -1,0 +1,9 @@
+1 :Creating virtual Environment for python using " python -m venv venv"
+	creates a folder"venv" in the current directory.
+2 :Activation using "venv\Scripts\activate" .Visible '(venv)'
+3 :Django installation using 'pip' and verification.
+4 :Starting project "django-admin startproject projectname"
+5 :App creation by" python manage.py startapp courses(app name)"
+6 :Run server by "python manage.py runserver" and checking the 'http' URL in the terminal shows the the Django server
+	and default application interface.
+after all these we successfully completed the setup procedure!
